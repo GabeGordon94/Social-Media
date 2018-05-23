@@ -1,0 +1,31 @@
+Q,Joey,Cruz,Gabe,Gordon
+Q,Corey,Markovitch,Gabe,Gordon
+F,Kristian,Kergides,Gabe,Gordon
+F,Joey,Cruz,Gabe,Gordon
+F,Scott,Baker,Gabe,Gordon
+F,Scott,Baker,Gabe,Gordon
+M,Kristian,Kergides,Gabe,Gordon,You Suck
+M,Pat,Rafferty,Kristian,Kergides,You’re a Slob
+A,Gabe,Gordon
+A,Gabe,Gordon
+B,Pat,Rafferty,Gabe,Gordon
+L,Gabe,Gordon
+N,Gabe,Gordon
+P,Gabe,Gordon
+E,Gabe,Gordon
+R,Gabe,Gordon
+E,Kristian,Kergides
+R,Kristian,Kergides
+U,Scott,Baker,Gabe,Gordon
+L,Gabe,Gordon
+P,Gabe,Gordon
+P,Gabe,Gordon
+P,Kristian,Kergides
+P,Pat,Rafferty
+P,Joey,Cruz
+P,G,Morreale
+P,Scott,Baker
+P,Mike,Corrado
+P,Dante,McCarthy
+P,Corey,Markovitch
+P,Ryne,Morrison
